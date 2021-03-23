@@ -14,9 +14,17 @@ JPDB supports and advocates for true serverless and pluggable API development.
 Benefits of using JsonPowerDB
 
 Simplest way to retrieve data in a JSON format.
+
 Schema-free, Simple to use, Nimble and In-Memory database.
+
 It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+
 It is low level (raw) form of data and is also human readable.
+
 It helps developers in faster coding, in-turn reduces development cost.
 
 ![image](https://user-images.githubusercontent.com/67148274/112209376-63cade80-8c3f-11eb-8024-d23d798d8b43.png)
+
+![image](https://user-images.githubusercontent.com/67148274/112210328-90332a80-8c40-11eb-87a3-c8f293a7778d.png)
+
+![image](https://user-images.githubusercontent.com/67148274/112209980-1e5ae100-8c40-11eb-80d3-cbde88eb400a.png)
